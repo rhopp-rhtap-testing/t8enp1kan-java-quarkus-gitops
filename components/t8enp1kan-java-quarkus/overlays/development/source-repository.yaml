@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t8enp1kan-java-quarkus-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/t8enp1kan-java-quarkus
